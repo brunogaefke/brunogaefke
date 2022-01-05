@@ -1,7 +1,7 @@
 ### Hi there, I´m Bruno Gaefke! 👋
 
-- 🔭 I’m currently working with Front-end
-- 🌱 I’m currently learning JavaScript/Typescript/React
+- 🔭 I’m currently working with Front-end(React)
+- 🌱 I’m currently learning JavaScript/Typescript
 
 <div align="center">
   <a href="https://github.com/brunogaefke">
